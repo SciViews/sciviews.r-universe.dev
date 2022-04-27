@@ -76,10 +76,6 @@
     "url": "https://github.com/SciViews/chart"
   },
   {
-    "package": "tcltk2",
-    "url": "https://github.com/SciViews/tcltk2"
-  },
-  {
     "package": "exploreit",
     "url": "https://github.com/SciViews/exploreit"
   },
