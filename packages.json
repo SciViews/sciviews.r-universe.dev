@@ -114,12 +114,5 @@
   {
     "package": "aurelhy",
     "url": "https://github.com/phgrosjean/aurelhy"
-  },
-  
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
-    "branch" : "svbox2022",
-    "subdir": "svbox2022"
   }
 ]
