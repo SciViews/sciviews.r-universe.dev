@@ -107,6 +107,14 @@
     "package": "RImageJ",
     "url": "https://github.com/SciViews/RImageJ"
   },
+  {
+    "package": "pastecs",
+    "url": "https://github.com/phgrosjean/pastecs"
+  },
+  {
+    "package": "aurelhy",
+    "url": "https://github.com/phgrosjean/aurelhy"
+  },
   
   {
     "package": "svMisc",
