@@ -8,6 +8,10 @@
     "url": "https://github.com/SciViews/svMisc"
   },
   {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase"
+  },
+  {
     "package": "svUnit",
     "url": "https://github.com/SciViews/svUnit"
   },
@@ -60,8 +64,8 @@
     "url": "https://github.com/SciViews/svDoc"
   },
   {
-    "package": "flow",
-    "url": "https://github.com/SciViews/flow"
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/svFlow"
   },
   {
     "package": "data.io",
@@ -102,5 +106,12 @@
   {
     "package": "RImageJ",
     "url": "https://github.com/SciViews/RImageJ"
+  },
+  
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "branch" : "svbox2022",
+    "subdir": "svbox2022"
   }
 ]
