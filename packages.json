@@ -12,6 +12,10 @@
     "url": "https://github.com/SciViews/svBase"
   },
   {
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/svFlow"
+  },
+  {
     "package": "svUnit",
     "url": "https://github.com/SciViews/svUnit"
   },
@@ -38,34 +42,6 @@
   {
     "package": "svDialogstcltk",
     "url": "https://github.com/SciViews/svDialogstcltk"
-  },
-  {
-    "package": "svWidgets",
-    "url": "https://github.com/SciViews/svWidgets"
-  },
-  {
-    "package": "svSweave",
-    "url": "https://github.com/SciViews/svSweave"
-  },
-  {
-    "package": "svTools",
-    "url": "https://github.com/SciViews/svTools"
-  },
-  {
-    "package": "svIDE",
-    "url": "https://github.com/SciViews/svIDE"
-  },
-  {
-    "package": "svKomodo",
-    "url": "https://github.com/SciViews/svKomodo"
-  },
-  {
-    "package": "svDoc",
-    "url": "https://github.com/SciViews/svDoc"
-  },
-  {
-    "package": "svFlow",
-    "url": "https://github.com/SciViews/svFlow"
   },
   {
     "package": "data.io",
@@ -96,23 +72,15 @@
     "url": "https://github.com/SciViews/mlearning"
   },
   {
-    "package": "learnitdown",
-    "url": "https://github.com/SciViews/learnitdown"
-  },
-  {
-    "package": "zooimage",
-    "url": "https://github.com/SciViews/zooimage"
-  },
-  {
-    "package": "RImageJ",
-    "url": "https://github.com/SciViews/RImageJ"
-  },
-  {
     "package": "pastecs",
-    "url": "https://github.com/phgrosjean/pastecs"
+    "url": "https://github.com/SciViews/pastecs"
   },
   {
     "package": "aurelhy",
-    "url": "https://github.com/phgrosjean/aurelhy"
+    "url": "https://github.com/SciViews/aurelhy"
+  },
+  {
+    "package": "svFast",
+    "url": "https://github.com/SciViews/svFast"
   }
 ]
