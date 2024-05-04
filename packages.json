@@ -48,6 +48,10 @@
     "url": "https://github.com/SciViews/data.io"
   },
   {
+    "package": "equatiomatic",
+    "url": "https://github.com/SciViews/equatiomatic"
+  },
+  {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise"
   },
