@@ -72,6 +72,14 @@
     "url": "https://github.com/SciViews/mlearning"
   },
   {
+    "package": "pastecs",
+    "url": "https://github.com/SciViews/pastecs"
+  },
+  {
+    "package": "aurelhy",
+    "url": "https://github.com/SciViews/aurelhy"
+  },
+  {
     "package": "svFast",
     "url": "https://github.com/SciViews/svFast"
   }
