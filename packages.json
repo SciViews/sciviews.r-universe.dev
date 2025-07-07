@@ -48,6 +48,10 @@
     "url": "https://github.com/SciViews/data.io"
   },
   {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame"
+  },
+  {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
     "remoteurl": "https://github.com/datalorax/equatiomatic"
