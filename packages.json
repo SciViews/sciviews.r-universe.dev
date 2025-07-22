@@ -57,6 +57,11 @@
     "remoteurl": "https://github.com/datalorax/equatiomatic"
   },
   {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
+    "remoteurl": "https://github.com/ardata-fr/equatags"
+  },
+  {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise"
   },
