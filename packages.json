@@ -4,6 +4,11 @@
     "url": "https://github.com/SciViews/SciViews"
   },
   {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
+    "remoteurl": "https://github.com/ardata-fr/equatags"
+  },
+  {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc"
   },
@@ -55,11 +60,6 @@
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
     "remoteurl": "https://github.com/datalorax/equatiomatic"
-  },
-  {
-    "package": "equatags",
-    "url": "https://github.com/ardata-fr/equatags",
-    "remoteurl": "https://github.com/ardata-fr/equatags"
   },
   {
     "package": "tabularise",
