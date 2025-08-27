@@ -4,9 +4,12 @@
     "url": "https://github.com/SciViews/SciViews"
   },
   {
-    "package": "equatags",
-    "url": "https://github.com/ardata-fr/equatags",
-    "remoteurl": "https://github.com/ardata-fr/equatags"
+    "package": "svTidy",
+    "url": "https://github.com/SciViews/svTidy"
+  },
+  {
+    "package": "svFast",
+    "url": "https://github.com/SciViews/svFast"
   },
   {
     "package": "svMisc",
