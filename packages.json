@@ -90,12 +90,18 @@
   },
   {
     "package": "pastecs",
-    "url": "https://github.com/SciViews/pastecs",
-    "remoteurl": "https://github.com/SciViews/pastecs"
+    "url": "https://github.com/SciViews/pastecs"
   },
   {
     "package": "aurelhy",
-    "url": "https://github.com/SciViews/aurelhy",
-    "remoteurl": "https://github.com/SciViews/aurelhy"
+    "url": "https://github.com/SciViews/aurelhy"
+  },
+  {
+    "package"; "helpai",
+    "url": "https://github.com/SciViews/helpai"
+  },
+  {
+    "package": "tcltk2",
+    "url": "https://github.com/SciViews/tcltk2"
   }
 ]
