@@ -8,10 +8,6 @@
     "url": "https://github.com/SciViews/svAssert"
   },
   {
-    "package": "svTidy",
-    "url": "https://github.com/SciViews/svTidy"
-  },
-  {
     "package": "svFast",
     "url": "https://github.com/SciViews/svFast"
   },
