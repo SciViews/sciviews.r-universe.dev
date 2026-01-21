@@ -4,6 +4,10 @@
     "url": "https://github.com/SciViews/SciViews"
   },
   {
+    "package": "svTidy",
+    "url": "https://github.com/SciViews/svTidy"
+  },
+  {
     "package": "svAssert",
     "url": "https://github.com/SciViews/svAssert"
   },
